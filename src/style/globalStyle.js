@@ -64,6 +64,7 @@ export const GlobalStyle = createGlobalStyle`
     -webkit-tap-highlight-color:rgba(0, 0, 0, 0);
     scroll-behavior: smooth;
     user-select: none;
+    background-color: #f5f5f5;
   }
   ul, li {
     padding-left: 0rem;
